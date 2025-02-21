@@ -23,7 +23,7 @@ Along with typing the input graph (in .gml format), there are 5 parameters that 
 `--verify_homophily`: This parameter checks if there is evidence of homophily.
 
 
-`--verify_balanced_graph`: This parameter checks if there is evidence of homophily.
+`--verify_balanced_graph`: This parameter checks if the graph is balanced.
 
 
 `--output [file name in .gml format]`: Create an output .gml file and save it at user's current directory. 
