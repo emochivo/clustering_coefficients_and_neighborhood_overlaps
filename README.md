@@ -31,6 +31,7 @@ Along with typing the input graph (in .gml format), there are 5 parameters that 
 
 
 _Examples_:
+
 `python ./graph_analysis.py graph_file.gml --components 3 --plot CN --output out_graph_file.gml`: 
 Read graph_file.gml and partition it into 3 connected components, plot the graph and highlight the clustering coefficient, and save the graph in out_graph_file.gml. 
 
