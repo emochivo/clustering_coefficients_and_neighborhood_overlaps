@@ -10,7 +10,6 @@ import networkx as nx
 import argparse
 import fractions
 
-isComponents = False
 
 ''' FUNCTIONS '''
 
